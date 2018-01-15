@@ -1,6 +1,7 @@
 # Взаимодействие в реальном времени с Socket.io
 
 * `npm start`
+* Go to [http://localhost:3000/](http://localhost:3000/)
 
 ## Основное задание
 
