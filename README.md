@@ -1,16 +1,18 @@
-# Взаимодействие в реальном времени с Socket.io
+# Socket.io realtime chat
 
+Home work for the Netology.ru lesson _"Real-time interaction with Socket.io"_.
+
+Using:
 * `npm start`
 * Go to [http://localhost:3000/](http://localhost:3000/)
 
-## Основное задание
+Used tools:
++ NodeJS
++ Express
++ Socket.io
++ JQuery
 
-Написать простой чат с функциями:
-
-*   отправка сообщений;
-*   получение сообщений;
-*   оповещение пользователей в чате о добавлении нового пользователя.
-
-## Дополнительное задание
-
-Реализовать возможность подключения к разным комнатам.
+Features:
+*   sending messages
+*   receiving messages
+*   notification of users about adding a new user.
